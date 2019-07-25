@@ -18,21 +18,20 @@ The project will consist of creating an easy to navigate platform that users wil
 ###   Timeframe
 ##  Phase
 Tasks
-Start Date
-End Date
+Start Date - End Date
 # Phase One
 Create Static Components
-25/07/2019
+25/07/2019 -
 28/07/2019
 # Phase Two
 Passing Information to Components
-28/07/2019
+28/07/2019 -
 29/07/2019
 # Phase Three
 Setting the State of beta-search-react
-29/07/2019
+29/07/2019 -
 30/07/2019
 # Phase Four
 Interacting with the Yelp Api
-30/07/2019
+30/07/2019 -
 01/08/2019
